@@ -1,0 +1,106 @@
+.brand-logo {
+  margin-left: 10px;
+}
+
+.nav-wrapper {
+  background-color: rgb(31, 128, 191);
+  border-bottom: none;
+}
+
+.nav-wrapper a {
+  -webkit-transition: all 0.5s ease;
+}
+
+.link-list  {
+  margin-right: 40px;
+}
+
+.intro-header {
+  text-align: center;
+  color: white;
+  font-family: "soleil", sans-serif;
+}
+.add-btn {
+  margin-top: 250px;
+  margin-left: 20px;
+  width: 200px;
+  height: 50px;
+}
+.how-it-works-ctn{
+  text-align: center;
+  color: white;
+}
+
+.how-img  {
+  margin-top: 30px;
+  width: 80%;
+}
+
+.description  {
+  font-size: 18px;
+}
+.logo-png  {
+  width: 40px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+body  {
+  background: linear-gradient(0deg, rgb(152, 88, 120) 20%, rgb(31, 128, 191) 80%);
+}
+
+.slack-commands {
+  background-color: rgb(247, 247, 247);
+  color: black;
+  margin-right: 5px;
+  padding: .1rem;
+  border: 1px solid grey;
+}
+
+.command {
+  margin-bottom: 15px;
+}
+
+.how-it-works  {
+  font-family: "soleil", sans-serif;
+}
+/* .container {
+  background-image: linear-gradient(120deg, rgb(31, 128, 191) 20%, rgb(152, 88, 120) 80%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+} */
+
+/* .intro-header {
+  color: white;
+}
+
+.intro-ctn {
+  align-items: center;
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.yasin {
+  display: flex;
+}
+
+
+
+.how-it-works-content {
+  width: 70%;
+} */
+
+/* .how-it-works-demo {
+  height: 500px;
+  background-image: url("images/phone-screen.png");
+}
+
+.practice {
+  margin: 0 auto;
+  width: 70%;
+  border: 1px solid black;
+  height: 500px;
+} */
