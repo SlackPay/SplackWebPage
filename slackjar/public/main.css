@@ -2,6 +2,11 @@
   margin-left: 10px;
 }
 
+.splack-logo {
+  margin-top: 15px;
+  width: 100px;
+}
+
 .nav-wrapper {
   background-color: rgb(31, 128, 191);
   border-bottom: none;
@@ -26,6 +31,16 @@
   width: 200px;
   height: 50px;
 }
+
+.second {
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.add  {
+  cursor: pointer;
+}
+
 .how-it-works-ctn{
   text-align: center;
   color: white;
